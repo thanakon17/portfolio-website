@@ -44,10 +44,7 @@
 - ปุ่มและลิงก์ไปยังโซเชียลมีเดีย เช่น GitHub, Facebook  
 - การออกแบบ UI ให้ทันสมัยและ responsive สำหรับมือถือและแท็บเล็ต
 
-#### วิธีดูโค้ด
-- เปิดดูโค้ดได้ที่ไฟล์ [index.html](https://github.com/thanakon17/portfolio-website/tree/main?tab=readme-ov-file)
-
 ---
 
 ## 5. Reflection Report (สิ่งที่เรียนรู้จากการทำโปรเจกต์นี้)  
-📄 เปิดเอกสาร Reflection Report [Google Docs]([https://docs.google.com/document/d/1U3MeeXHytkBGA3ameXkVx6Xb9yDsF2T6xprgF0_J9Dw/edit?usp=sharing](https://docs.google.com/document/d/1dFBKWO19I3RlGb3CXUxLINLLeRcTbcev_pNUg8f1k0s/edit?usp=sharing))
+📄 เปิดเอกสาร Reflection Report [Google Docs](https://docs.google.com/document/d/1dFBKWO19I3RlGb3CXUxLINLLeRcTbcev_pNUg8f1k0s/edit?usp=sharing)
