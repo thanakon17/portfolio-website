@@ -45,7 +45,7 @@
 - การออกแบบ UI ให้ทันสมัยและ responsive สำหรับมือถือและแท็บเล็ต
 
 #### วิธีดูโค้ด
-- เปิดดูโค้ดได้ที่ไฟล์ [index.html](https://github.com/thanakon17/portfolio-website/blob/main/README.md)
+- เปิดดูโค้ดได้ที่ไฟล์ [index.html](https://github.com/thanakon17/portfolio-website/tree/main?tab=readme-ov-file)
 
 ---
 
