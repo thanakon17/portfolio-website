@@ -45,7 +45,7 @@
 - การออกแบบ UI ให้ทันสมัยและ responsive สำหรับมือถือและแท็บเล็ต
 
 #### วิธีดูโค้ด
-- เปิดดูโค้ดได้ที่ไฟล์ [index.html](https://github.com/Nanthawat67/portfolio-website/blob/main/index.html)
+- เปิดดูโค้ดได้ที่ไฟล์ [index.html]([https://github.com/Nanthawat67/portfolio-website/blob/main/index.html](https://github.com/thanakon17/portfolio-website/tree/main))
 
 ---
 
