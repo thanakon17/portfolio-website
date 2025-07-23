@@ -44,13 +44,20 @@
                 <span class="bar"></span>
             </div>
         </div>
+
     </nav>
 
+    <button class="back-to-top" id="backToTop">
+        <i class="fas fa-arrow-up"></i>
+    </button>
     <!-- Hero Section -->
     <section id="home" class="hero">
         <div class="hero-content">
             <h1>Hello, I'm <span class="highlight">Thanakon Padungsin</span></h1>
-            <p class="hero-subtitle">Full Stack Developer</p>
+            <p class="hero-subtitle">
+                <span id="typing-text"></span>
+                <span class="cursor">|</span>
+            </p>
             <p class="hero-description">I create beautiful and functional web applications</p>
             <div class="hero-buttons">
                 <a href="#projects" class="btn btn-primary">View My Work</a>
@@ -135,8 +142,15 @@
     <section id="projects" class="projects">
         <div class="container">
             <h2 class="section-title">My Projects</h2>
+
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all">All</button>
+                <button class="filter-btn" data-filter="web">My Portfolio</button>
+                <button class="filter-btn" data-filter="mobile">Ecommerce</button>
+                <button class="filter-btn" data-filter="ui">To-Do List</button>
+            </div>
             <div class="projects-grid">
-                <div class="project-card">
+                <div class="project-card" data-category="web">
                     <img src="images/Screenshot 2025-07-22 221506.png" alt="Project 1">
                     <div class="project-info">
                         <h3>My Portfolio</h3>
@@ -148,18 +162,18 @@
                         </div>
                     </div>
                 </div>
-                <div class="project-card">
+                <div class="project-card" data-category="mobile">
                     <img src="images/Screenshot 2025-07-22 221610.png" alt="Project 2">
                     <div class="project-info">
                         <h3>mini-ecommerce-collaboration</h3>
                         <p>My Simple Store web app</p>
                         <div class="project-links">
-                            <a href="#" class="btn btn-small">Live Demo</a>
-                            <a href="#" class="btn btn-small btn-secondary">GitHub</a>
+                            <a href="https://thanakon17.github.io/mini-ecommerce-collaboration" class="btn btn-small">Live Demo</a>
+                            <a href="https://github.com/thanakon17/mini-ecommerce-collaboration" class="btn btn-small btn-secondary">GitHub</a>
                         </div>
                     </div>
                 </div>
-                <div class="project-card">
+                <div class="project-card" data-category="ui">
                     <img src="images/Screenshot 2025-07-22 224358.png" alt="Project 3">
                     <div class="project-info">
                         <h3>To-Do List</h3>
@@ -173,7 +187,6 @@
                     </div>
                 </div>
             </div>
-        </div>
     </section>
 
     <!-- Contact Section -->
