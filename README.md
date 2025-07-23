@@ -33,7 +33,7 @@
 ---
 
 ## 3. Live Demo (Deploy ผ่าน GitHub Pages)  
-🔗 https://nanthawat67.github.io/portfolio-website/
+🔗 https://thanakon17.github.io/portfolio-website/
 
 ---
 
