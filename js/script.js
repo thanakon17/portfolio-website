@@ -36,6 +36,15 @@ window.addEventListener('load', () => {
     }, 1000);
 });
 
+// Scroll Progress Indicator
+window.addEventListener('scroll', () => {
+    const scrollTop = window.pageYOffset;
+    const docHeight = document.body.offsetHeight - window.innerHeight;
+    const scrollPercent = (scrollTop / docHeight) * 100;
+    
+    document.querySelector('.progress-bar').style.width = scrollPercent + '%';
+});
+
 navToggle.addEventListener('click', () => {
     navMenu.classList.toggle('active');
     navToggle.classList.toggle('active');
